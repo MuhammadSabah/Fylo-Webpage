@@ -89,7 +89,6 @@ a,
 /* ************************************************ */
 
 .hero-section {
-  max-width: 160rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -176,7 +175,6 @@ a,
   padding: 0 5rem;
 }
 .features-section {
-  max-width: 160rem;
   background-color: var(--main-background-sections-color);
   padding-bottom: 21rem;
 }

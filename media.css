@@ -11,8 +11,11 @@
 @media (max-width: 26.8em) {
   html {
     font-size: 9px;
+    overflow-x: hidden;
   }
-
+  body {
+    overflow-x: hidden;
+  }
   .container {
     padding: 3rem 2.5rem 0 2.5rem;
   }
@@ -69,7 +72,7 @@
     display: inline-block;
     border: none;
     padding: 2rem 9.8rem;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
 
   .curve-img {
