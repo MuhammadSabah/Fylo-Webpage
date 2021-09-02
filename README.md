@@ -1,6 +1,6 @@
 # Fylo-Webpage
 LINK TO THE WEBSITE..
 https://hama-fylo-page.netlify.app/
+![Fylo-Website-screenshot](https://user-images.githubusercontent.com/75329130/131845324-f07ba865-58fa-42db-89b0-db65da193834.jpeg)
 
-![Fylo-Webpage](https://user-images.githubusercontent.com/75329130/131843608-38b1eabe-4ffc-4aa2-bf59-dcdc3912a70c.png)
 
